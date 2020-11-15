@@ -1,4 +1,16 @@
-# control_led
+# control_led 
+
+The goal of this project is to make use of a flutter app to switch led's, elctrical appliances instead of the traditional way of making use of switches.
+
+It makes use of wifi technology using the NodeMCU micro contoller.
+
+Have a good time trying it out and improving on it
+
+
+
+
+
+
 
 A new Flutter application.
 
